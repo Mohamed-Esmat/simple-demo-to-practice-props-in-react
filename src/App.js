@@ -1,5 +1,5 @@
-import Concepts from './Concepts';
-import Header from './Header';
+import Concepts from './Concept/Concepts';
+import Header from './Header/Header';
 
 
 function App() {
